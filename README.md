@@ -36,18 +36,12 @@ Data preprocessing steps include:
 We explore and evaluate multiple models:
 
 - Logistic Regression
-- Decision Tree
 - Random Forest
 - XGBoost
 
 Model performance is measured using:
-
-- Accuracy
-- Precision
-- Recall
-- F1-Score
 - ROC-AUC
 
 ## Results
 
-XGBoost performed best in terms of F1-Score and ROC-AUC, with strong precision-recall tradeoffs, indicating suitability for imbalanced classification.
+XGBoost performed best in terms of ROC-AUC, with strong precision-recall tradeoffs, indicating suitability for imbalanced classification.
