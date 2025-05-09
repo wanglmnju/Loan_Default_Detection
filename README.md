@@ -6,7 +6,7 @@ This project applies machine learning techniques to predict whether a loan will 
 
 ## Overview
 
-The goal of this project is to identify high-risk loans by building a classification model. We use a dataset containing demographic and financial information of loan applicants and train various models including Logistic Regression and Gradient Boosting.
+The goal of this project is to identify high-risk loans by building a classification model. We use a dataset containing demographic and financial information of loan applicants and train various models, including Logistic Regression and Gradient Boosting.
 
 ## Dataset
 
