@@ -1,5 +1,4 @@
 # Loan_Default_Detection
-# Loan Default Detection
 
 This project applies machine learning techniques to predict whether a loan will default, using customer and loan-related features. It aims to support financial institutions in assessing credit risk and making data-driven lending decisions.
 
